@@ -1,5 +1,23 @@
-# 💫 About Me:
-💬 Ask me about:<br>- Flask backend integration<br>-  intermediate ML concepts<br>🤝 Looking for help with:<br>- Scaling Unity + AI integration<br>- Contributing to production-grade open-source projects<br>👯 Looking to collaborate on:<br>- AI/ML projects with real deployment use-cases<br>🔭 Currently working on: <br>- ML mini-projects focused on real-world problem solving<br>- Building automation tools using Python<br>⚡ Fun fact:<br>I treat projects like boss fights — level up, fail, retry, win.<br><br>
+🔭 Currently working on:
+- Android applications powered by Generative AI
+- ML projects focused on real-world problem solving
+
+👯 Looking to collaborate on:
+- AI/ML systems with real deployment use-cases
+- Android apps integrating LLMs or AI APIs
+
+🤝 Looking for help with:
+- Model optimization & scalable AI deployment
+- Contributing to production-grade open-source projects
+
+💬 Ask me about:
+- Android + GenAI integration
+- Intermediate ML concepts
+- Flask backend integration
+
+⚡ Fun fact:
+I treat projects like boss fights — level up, fail, retry, win.
+
 
 
 ## 🌐 Socials:
